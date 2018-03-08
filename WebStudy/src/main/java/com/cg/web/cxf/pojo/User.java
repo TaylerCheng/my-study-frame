@@ -1,4 +1,4 @@
-package com.cg.web.pojo;
+package com.cg.web.cxf.pojo;
 
 /**
  * Created by Cheng Guang on 2016/9/6.

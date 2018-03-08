@@ -1,7 +1,7 @@
 package com.cg.web.cxf.client;
 
 import com.cg.web.cxf.jaxws.HelloWorld;
-import com.cg.web.pojo.User;
+import com.cg.web.cxf.pojo.User;
 import org.apache.cxf.jaxws.JaxWsProxyFactoryBean;
 import org.junit.Test;
 import org.junit.runner.RunWith;

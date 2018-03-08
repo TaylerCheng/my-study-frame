@@ -5,7 +5,7 @@ package com.cg.web.cxf.jaxws.impl;
  */
 
 import com.cg.web.cxf.jaxws.HelloWorld;
-import com.cg.web.pojo.User;
+import com.cg.web.cxf.pojo.User;
 
 import java.util.LinkedHashMap;
 import java.util.List;

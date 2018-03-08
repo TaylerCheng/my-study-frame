@@ -1,4 +1,4 @@
-package com.cg.algorithm.sort;
+package com.cg.algorithm.search;
 
 /**
  * @author： Cheng Guang

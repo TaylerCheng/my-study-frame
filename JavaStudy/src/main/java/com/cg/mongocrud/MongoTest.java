@@ -31,7 +31,7 @@ public class MongoTest {
     }
 
     /**
-     * ²åÈëÒ»ÌõÎÄµµ
+     * æ’å…¥ä¸€æ¡æ–‡æ¡£
      */
     private static void insert() {
         DBCollection coll = db.getCollection("clo_1");
